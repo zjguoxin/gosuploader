@@ -39,7 +39,7 @@ import (
 	"log"
 	"mime/multipart"
 
-	"github.com/zjguoxin/gosuploader"
+	gosuploader "github.com/zjguoxin/gosuploader"
 	"github.com/zjguoxin/gosuploader/config"
 )
 
